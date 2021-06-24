@@ -2,6 +2,7 @@ package io.cubyz.api;
 
 import io.cubyz.ui.MenuGUI;
 
+
 /**
  * Stores all Registries that are only relevant for the client.
  */
